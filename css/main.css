@@ -48,9 +48,9 @@ padding: 25px;
   }
 
   div.top {
-      width: 100px;
+      width: 100%;
       display: block;
-      background: url(../img/weenies-w-bg.png) no-repeat center top; 
+      background: url(../img/2weenies.png) no-repeat center center; 
       border-top: #349ED3 85px solid;
       border-bottom: #349ED3 85px solid;
       padding: 150px 0 150px 30px;
